@@ -1,6 +1,6 @@
 =begin
 参考URL
- クラスについて          https://techacademy.jp/magazine/9720
+ クラスについて          https://www.sejuku.net/blog/15328
  標準入力を扱う方法       https://www.sejuku.net/blog/14078
  コメントアウトの仕方      https://qiita.com/Mocacamo/items/318b193ded19fd37ffd6
 =end
