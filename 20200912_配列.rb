@@ -10,7 +10,7 @@ end
 
 def string_array
     puts "文字配列とForでの繰り返し"
-  array  = ["a","b","c",nil]
+  array  = ["a","b","c"]
   for i in array do
     puts Array(i)
   end
